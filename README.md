@@ -11,7 +11,7 @@ Python >= 3
 
 ## Installation / usage
 ```
-1. Clone/download this repo
+1. clone/download this repo
 
 $ npm i && composer install
 
