@@ -1,5 +1,5 @@
-# Qui
-A php 'framework' made from scratch.
+<h1 align="center">Qui</h1>
+<h3 align="center">A php 'framework' made from scratch.</h3>
 
 ## Requirements
 ```
