@@ -1,4 +1,4 @@
-<h1 align="center">Qui</h1>
+<img src="https://i.imgur.com/qEXK6SR.png" />
 <h3 align="center">A php 'framework' made from scratch.</h3>
 
 ## Requirements
